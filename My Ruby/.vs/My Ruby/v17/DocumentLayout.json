@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Studio\\Unity\\My Ruby\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29B8BF15-6179-0F34-5B89-408C38A3F698}|Assembly-CSharp.csproj|C:\\Studio\\Unity\\My Ruby\\assets\\scripts\\playerc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B8BF15-6179-0F34-5B89-408C38A3F698}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B8BF15-6179-0F34-5B89-408C38A3F698}|Assembly-CSharp.csproj|c:\\studio\\unity\\my ruby\\assets\\scripts\\bulletbag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B8BF15-6179-0F34-5B89-408C38A3F698}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletbag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B8BF15-6179-0F34-5B89-408C38A3F698}|Assembly-CSharp.csproj|C:\\Studio\\Unity\\My Ruby\\assets\\scripts\\bulletc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B8BF15-6179-0F34-5B89-408C38A3F698}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B8BF15-6179-0F34-5B89-408C38A3F698}|Assembly-CSharp.csproj|C:\\Studio\\Unity\\My Ruby\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B8BF15-6179-0F34-5B89-408C38A3F698}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B8BF15-6179-0F34-5B89-408C38A3F698}|Assembly-CSharp.csproj|C:\\Studio\\Unity\\My Ruby\\assets\\scripts\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B8BF15-6179-0F34-5B89-408C38A3F698}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B8BF15-6179-0F34-5B89-408C38A3F698}|Assembly-CSharp.csproj|C:\\Studio\\Unity\\My Ruby\\assets\\scripts\\npcmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B8BF15-6179-0F34-5B89-408C38A3F698}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npcmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B8BF15-6179-0F34-5B89-408C38A3F698}|Assembly-CSharp.csproj|C:\\Studio\\Unity\\My Ruby\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B8BF15-6179-0F34-5B89-408C38A3F698}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B8BF15-6179-0F34-5B89-408C38A3F698}|Assembly-CSharp.csproj|C:\\Studio\\Unity\\My Ruby\\assets\\scripts\\enemyc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B8BF15-6179-0F34-5B89-408C38A3F698}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B8BF15-6179-0F34-5B89-408C38A3F698}|Assembly-CSharp.csproj|C:\\Studio\\Unity\\My Ruby\\assets\\scripts\\damagearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B8BF15-6179-0F34-5B89-408C38A3F698}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damagearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BulletBag.cs",
+              "DocumentMoniker": "C:\\Studio\\Unity\\My Ruby\\Assets\\Scripts\\BulletBag.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletBag.cs",
+              "ToolTip": "C:\\Studio\\Unity\\My Ruby\\Assets\\Scripts\\BulletBag.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletBag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:55:18.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NPCManager.cs",
+              "DocumentMoniker": "C:\\Studio\\Unity\\My Ruby\\Assets\\Scripts\\NPCManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPCManager.cs",
+              "ToolTip": "C:\\Studio\\Unity\\My Ruby\\Assets\\Scripts\\NPCManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPCManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:44:28.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BulletC.cs",
+              "DocumentMoniker": "C:\\Studio\\Unity\\My Ruby\\Assets\\Scripts\\BulletC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletC.cs",
+              "ToolTip": "C:\\Studio\\Unity\\My Ruby\\Assets\\Scripts\\BulletC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletC.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA+wCYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:22:35.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerC.cs",
+              "DocumentMoniker": "C:\\Studio\\Unity\\My Ruby\\Assets\\Scripts\\PlayerC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerC.cs",
+              "ToolTip": "C:\\Studio\\Unity\\My Ruby\\Assets\\Scripts\\PlayerC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerC.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T14:15:20.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UImanager.cs",
+              "DocumentMoniker": "C:\\Studio\\Unity\\My Ruby\\Assets\\Scripts\\UImanager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UImanager.cs",
+              "ToolTip": "C:\\Studio\\Unity\\My Ruby\\Assets\\Scripts\\UImanager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UImanager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwC4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T16:37:38.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Collectible.cs",
+              "DocumentMoniker": "C:\\Studio\\Unity\\My Ruby\\Assets\\Scripts\\Collectible.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collectible.cs",
+              "ToolTip": "C:\\Studio\\Unity\\My Ruby\\Assets\\Scripts\\Collectible.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collectible.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T14:19:09.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Studio\\Unity\\My Ruby\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Studio\\Unity\\My Ruby\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:14:33.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyC.cs",
+              "DocumentMoniker": "C:\\Studio\\Unity\\My Ruby\\Assets\\Scripts\\EnemyC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyC.cs",
+              "ToolTip": "C:\\Studio\\Unity\\My Ruby\\Assets\\Scripts\\EnemyC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyC.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwFQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T15:19:54.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DamageArea.cs",
+              "DocumentMoniker": "C:\\Studio\\Unity\\My Ruby\\Assets\\Scripts\\DamageArea.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DamageArea.cs",
+              "ToolTip": "C:\\Studio\\Unity\\My Ruby\\Assets\\Scripts\\DamageArea.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DamageArea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T14:38:50.232Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
